@@ -1,7 +1,1 @@
-multi_head_prediction/model/toy_test_cls/Fold1_best_loss0.48_accuracy0.81_precision0.85_recall0.78_specificity0.84_F10.81_ROC0.88.pth filter=lfs diff=lfs merge=lfs -text
-multi_head_prediction/model/toy_test_reg/Fold1_best_loss5.88_MAE5.87_RMSE9.07_R20.45_P0.67.pth filter=lfs diff=lfs merge=lfs -text
-I:CTOnsetTimemulti_head_predictionmodel*.pth filter=lfs diff=lfs merge=lfs -text
-multi_head_prediction/model/12h.pth filter=lfs diff=lfs merge=lfs -text
-multi_head_prediction/model/6h.pth filter=lfs diff=lfs merge=lfs -text
-multi_head_prediction/model/8h.pth filter=lfs diff=lfs merge=lfs -text
-multi_head_prediction/model/reg.pth filter=lfs diff=lfs merge=lfs -text
+multi_head_prediction/model/*.pth filter=lfs diff=lfs merge=lfs -text

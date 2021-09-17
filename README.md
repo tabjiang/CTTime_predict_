@@ -1,3 +1,6 @@
+
+main code in multi_head_prediction
+
 Multi-task learning code for time window prediction
 Tested on pytorch 1.5.1, Python 3.6.8
 test_classification.py :predict if the onset time is below or above the fixed time
